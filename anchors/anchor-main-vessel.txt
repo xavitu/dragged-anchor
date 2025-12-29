@@ -1,0 +1,6 @@
+# Anchor Configuration: Main Vessel
+Type: Stockless Anchor
+Weight: 5000kg
+Chain Length: 200m
+Material: Galvanized Steel
+Deployment Depth: 50m
