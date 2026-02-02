@@ -9,7 +9,7 @@ on:
 
 jobs:
   validate:
-    runs-on: ubuntu
+    runs-on: dragged-anchor
     
     steps:
       - name: Checkout PR code
